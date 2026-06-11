@@ -1,0 +1,10 @@
+{
+    "display_name": "Apocrypha",
+    "loading_order": 150,
+    "requires": [],
+    "optional": [],
+    "js": "index.js",
+    "author": "Judas (sinnerconsort)",
+    "version": "0.1.0",
+    "homePage": ""
+}
